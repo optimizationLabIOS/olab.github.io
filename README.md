@@ -1,2 +1,9 @@
-# olab.github.io
-# www.optimizationLab.io
+---
+title: Optimization Lab
+linkTitle: 
+layout: olab-home
+toc: false
+---
+
+## Optimization Lab
+
