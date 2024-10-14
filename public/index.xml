@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Optimization Lab</title>
-    <link>//localhost:58797/</link>
+    <link>//localhost:61222/</link>
     <description>Recent content on Optimization Lab</description>
     <image>
       <title>Optimization Lab</title>
-      <url>//localhost:58797/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:58797/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:61222/images/</url>
+      <link>//localhost:61222/images/</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <atom:link href="//localhost:58797/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:61222/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -14,13 +14,13 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: Optimization Lab
+  description: "An iOS Apps Company"
+  keywords: [iOS apps, Education, Recreation]
+  author: Optimization Lab
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  images: ["images/"]
+  DateFormat: "January 1, 2024"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to Optimization Lab!"
+    Content: Welcome to Optimization Lab
 
   socialIcons:
     - name: x
