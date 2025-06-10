@@ -41,7 +41,7 @@ This Sudoku app can generate effectively any number of Sudoku puzzles for print 
 
 ### Download
 
-[Version 1.1](https://apps.apple.com/us/app/sudoku-go/id1574455353)
+[Version 1.3](https://apps.apple.com/us/app/sudoku-go/id1574455353)
 
 
 
@@ -55,5 +55,5 @@ This app can not only generate work sheet for math practice problems together wi
 
 ### Download
 
-[Version 1.3](https://apps.apple.com/us/app/math-generator/id1561094162)
+[Version 1.4](https://apps.apple.com/us/app/math-generator/id1561094162)
 
